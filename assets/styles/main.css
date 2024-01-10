@@ -1,0 +1,45 @@
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+li {
+    list-style-type: none;
+}
+
+.flex {
+    display: flex;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.center {
+    align-items: center;
+    justify-content: center;
+}
+
+.col {
+    flex-direction: column;
+}
+
+.col-2 {
+    width: 50%;
+}
+
+.col-3 {
+    width: 33.3333%;
+}
+
+.col-4 {
+    width: 25%;
+}
