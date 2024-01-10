@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .wrapper {
+      @apply max-w-7xl mx-auto flex items-center w-[85%];
+    }
+    .fixed-header {
+      @apply !w-full !z-[9999] !fixed;
+    }
+    .active {
+      @apply !flex;
+    }
+    .nav-item {
+      @apply pl-5 pr-3 text-[#04121f] transition-all mx-0 hover:text-mainOrange duration-200;
+    }
+    .btn {
+      @apply bg-mainBlue px-[25px] py-4 text-white rounded-xl font-bold transition-all duration-200 hover:!bg-mainOrange hover:!text-white;
+    }
+    .btn-reverse {
+      @apply bg-mainOrange px-[25px] py-4 text-white rounded-xl font-bold transition-all duration-200 hover:bg-mainBlue;
+    }
+    .heading {
+      @apply max-w-[620px] font-bold text-center text-textColor mb-12 [&_h5]:text-orange-500 [&_h5]:tracking-[2px] [&_h5]:mb-4 [&_h5]:text-base [&_h2]:text-[40px] [&_h2]:leading-10 lg:[&_h2]:text-5xl [&_h2]:mb-4 [&_h2]:tracking-[-.4px] [&_p]:font-normal;
+    }
+    .product-tab-active {
+      @apply bg-white text-mainBlue;
+    }
+}
