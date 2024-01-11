@@ -13,11 +13,11 @@ importPartial('partials/team.html', 'team');
 importPartial('partials/blog.html', 'blog');
 importPartial('partials/footer.html', 'footer');
 
-window.onload = () => {
+window.addEventListener('load', () => {
     document.getElementById('header').classList.add('fixed-header', 'transition-all');
     const nav_mb_btn = document.querySelector('.js-nav-mb-btn');
     const nav_mb = document.querySelector('.js-nav-mb');
     nav_mb_btn.addEventListener('click', () => {
         nav_mb.classList.toggle('active');
     });
-}
+});

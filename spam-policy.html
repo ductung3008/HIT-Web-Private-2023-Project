@@ -41,12 +41,12 @@
 </body>
 <script src="./assets/scripts/main.js" defer></script>
 <script defer>
-    window.onload = function() {
+    window.addEventListener('load', () => {
         const firstDiv = document.querySelector('footer div');
         firstDiv.parentNode.removeChild(firstDiv);
         document.querySelector('footer div').style.paddingTop = '80px';
         document.querySelector('footer img').setAttribute('src', 'assets/images/spam-policy/footer-logo.svg');
         document.querySelector('footer p').innerHTML='We would love to hear from you, whether it is enterprise solution or consulting, we are just a call away!'
-    }
+    });
 </script>
 </html>
