@@ -4,7 +4,7 @@
 
 @layer utilities {
     .wrapper {
-      @apply max-w-7xl mx-auto flex items-center w-[85%];
+      @apply max-w-7xl mx-auto flex items-center lg:w-[85%] sm:w-[90%];
     }
     .fixed-header {
       @apply !w-full !z-[9999] !fixed;
