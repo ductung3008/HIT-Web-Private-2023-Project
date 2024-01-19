@@ -317,6 +317,7 @@
 .ct42c2{
     padding-bottom: 0;
     padding-right: 10%;
+    display: none;
 }
 .ct42c2>p{
     color: #40454f;
@@ -325,6 +326,14 @@
     font-weight: 400;
     margin-bottom: 0;
     margin-top: 0;
+}
+.ct42c:hover .ct42c2{
+    display: block;
+}
+.ct42c:hover img{
+    filter: grayscale(0%);
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(45deg) skew(0deg, 0deg);
+    transform-style: preserve-3d;
 }
 .bottom-line{
     width: 100%;
