@@ -164,6 +164,11 @@
     padding-left: 0;
     padding-right: 0;
 }
+.ct32a:hover .a2{
+    -ms-transform: scale(1.9); /* IE 9 */
+  -webkit-transform: scale(1.8); /* Safari 3-8 */
+  transform: scale(1.8); 
+}
 .ct32a>a{
     color: #40454f;
     max-width: 100%;
@@ -196,7 +201,9 @@
     overflow-clip-margin: content-box;
     overflow: clip;
     color: #40454f;
+    transition: transform .6s;
 }
+
 .a3{
     z-index: 2;
     width: 64px;
