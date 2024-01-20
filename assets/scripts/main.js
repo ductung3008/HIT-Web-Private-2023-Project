@@ -5,12 +5,16 @@ const importPartial = (url, partialId) => {
         .then(html => {
             document.getElementById(partialId).innerHTML = html;
         })
+        .catch(err => {
+            console.log(`Not found ${partialId}`);
+        });
 };
 
 importPartial('partials/header.html', 'header');
 importPartial('partials/clients.html', 'clients');
 importPartial('partials/team.html', 'team');
 importPartial('partials/blog.html', 'blog');
+importPartial('partials/blog-main.html', 'blog-main');
 importPartial('partials/footer.html', 'footer');
 
 window.addEventListener('load', () => {
