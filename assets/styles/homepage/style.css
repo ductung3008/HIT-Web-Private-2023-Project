@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@400;500;600;700;800&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -26,5 +28,8 @@
     }
     .product-tab-active {
       @apply bg-white text-mainBlue;
+    }
+    .blog-tab-active {
+      @apply border-b-[2px] border-mainOrange;
     }
 }

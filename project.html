@@ -1,18 +1,73 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project | Nexlab Technology</title>
-    <link rel="shortcut icon" href="./assets/images/logo.png" type="image/x-icon">
-    <link rel="stylesheet" href="./assets/styles/reset.min.css">
-    <link rel="stylesheet" href="./assets/icons/css/all.min.css">
-    <link rel="stylesheet" href="./assets/styles/homepage/final.css">
-</head>
-<body>
-    <header id="header"></header>
-    <footer id="footer"></footer>
-</body>
-<script src="./assets/scripts/main.js"></script>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Project | Nexlab Technology</title>
+        <link rel="shortcut icon" href="./assets/images/logo.png" type="image/x-icon" />
+        <link rel="stylesheet" href="./assets/icons/css/all.min.css" />
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+        <link rel="stylesheet" href="./assets/styles/homepage/final.css" />
+    </head>
+    <body>
+        <header id="header"></header>
+        <section class="bg-[#f1f3f6]">
+            <div class="wrapper flex-col">
+                <div class="heading !m-0 flex flex-col items-center pb-60 pt-48 lg:!max-w-[900px]">
+                    <h5>PROJECT</h5>
+                    <h2 class="mb-4 !text-[52px] !leading-[55px]">Our list of repeat clients keep growing</h2>
+                    <p class="mt-4 max-w-[500px] !text-xl lg:max-w-[900px]">
+                        Nexlab Technology takes immense pride in finishing projects on time, within budget, and most
+                        importantly with the expected value
+                    </p>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="wrapper">
+                <div
+                    class="-mt-[145px] flex flex-col gap-10 *:shadow-[17px_17px_200px_rgba(64,69,79,.06)] lg:flex-row lg:*:max-w-[400px] lg:*:!items-start lg:*:!text-left">
+                    <div class="flex flex-col items-center justify-center rounded-xl bg-white p-[30px] text-center">
+                        <img src="./assets/images/project/p-1.svg" alt="" class="mb-7" />
+                        <h3 class="mb-2 text-[22px] font-bold">Revolution</h3>
+                        <p>
+                            Our works will revolutionize the way people think. At Nexlab, our biggest goal is to
+                            generate top value for our customers and satisfy their needs.
+                        </p>
+                    </div>
+                    <div class="flex flex-col items-center justify-center rounded-xl bg-white p-[30px] text-center">
+                        <img src="./assets/images/project/p-2.svg" alt="" class="mb-7" />
+                        <h3 class="mb-2 text-[22px] font-bold">Variety</h3>
+                        <p>
+                            We have diverse and flexible engagement models, strong expertise in sectors such as Finance,
+                            E-Commerce, HRM, Government, Healthcare, Education, to name a few
+                        </p>
+                    </div>
+                    <div class="flex flex-col items-center justify-center rounded-xl bg-white p-[30px] text-center">
+                        <img src="./assets/images/project/p-3.svg" alt="" class="mb-7" />
+                        <h3 class="mb-2 text-[22px] font-bold">Motive</h3>
+                        <p>
+                            We constantly strive for perfection and keep bringing together technology, product, and
+                            multi-domain expertise under one roof to provide services that define excellence
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="wrapper flex-col items-center py-[145px]">
+                <div class="heading">
+                    <h2>What we build for businesses</h2>
+                    <p>We help them design & build & deliver innovative products</p>
+                </div>
+                <div class="js-projects flex flex-col flex-wrap gap-6 lg:flex-row lg:*:w-[calc((100%-2*24px)/3)]"></div>
+            </div>
+        </section>
+        <section id="clients"></section>
+        <footer id="footer"></footer>
+    </body>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script src="./assets/scripts/main.js" defer></script>
+    <script src="./assets/scripts/project/project.js" defer></script>
 </html>

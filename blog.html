@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Blog | Nexlab Technology</title>
+        <link rel="shortcut icon" href="./assets/images/logo.png" type="image/x-icon" />
+        <link rel="stylesheet" href="./assets/icons/css/all.min.css" />
+        <link rel="stylesheet" href="./assets/styles/homepage/final.css" />
+    </head>
+    <body>
+        <header id="header"></header>
+        <section class="bg-[#f1f3f6]">
+            <div class="wrapper flex-col">
+                <div class="heading !m-0 flex flex-col items-center pb-60 pt-48">
+                    <h5>BLOG</h5>
+                    <h2 class="mb-4 !text-[52px] !leading-[55px]">Insight & advices</h2>
+                    <p class="!m-0 mt-4 !text-xl">The latest industry news, trends, technology, and resource</p>
+                </div>
+                <div id="blog-main" class="-mt-[150px] pb-[140px]"></div>
+            </div>
+        </section>
+        <section>
+            <div class="wrapper flex-col">
+                <div class="mb-20 flex flex-col gap-10 pt-20">
+                    <div class="heading mb-[50px] flex flex-col items-center">
+                        <h2>All blog posts</h2>
+                        <p>Hey there! Come see our thoughts, stories, ideas</p>
+                    </div>
+                    <form action="">
+                        <input
+                            type="search"
+                            name="search"
+                            id="search"
+                            placeholder="Search"
+                            class="border-1 color-[#40454f] h-[60px] rounded-xl border-black bg-[#f1f3f6] bg-[url('../../images/blog/search-bg.svg')] bg-[28px] bg-no-repeat py-2 pl-[72px] pr-3 outline-none" />
+                        <input type="submit" value="Search" class="btn-reverse ml-5" />
+                    </form>
+                </div>
+                <div class="w-full">
+                    <ul class="mb-10 flex justify-between font-medium *:inline-block *:px-4 *:py-2">
+                        <li class="blog-tab-active">All posts</li>
+                        <li>Tips</li>
+                        <li>News</li>
+                        <li>Event</li>
+                        <li>Research</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <footer id="footer"></footer>
+    </body>
+    <script src="./assets/scripts/main.js"></script>
+</html>

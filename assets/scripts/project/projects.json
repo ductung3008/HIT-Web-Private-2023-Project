@@ -1,0 +1,254 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "title": "Giup Viec Nha",
+            "para": "Giup Viec Nha (GVN) is a marketplace platform connecting urban families with maids and other chore-associated service providers. While expanding into the B2B office market in 2017, we went on the infamous Shark Tank Vietnam season 1."
+        },
+        {
+            "id": 1,
+            "title": "Daikin Services",
+            "para": "Daikin is the global No.1 air conditioning manufacturer. We help Daikin to digitalize their whole ecosystem (warehouse, sale/ business, service)."
+        },
+        {
+            "id": 2,
+            "title": "Raffles Connect",
+            "para": "Raffles Medical Group is Singapore’s largest homegrown private healthcare provider. We help them to connect patients to a trusted network of healthcare providers via a secure &amp; integrated app."
+        },
+        {
+            "id": 3,
+            "title": "Razer Gold",
+            "para": "Razer™ is the world’s leading lifestyle brand for gamers. The triple-headed snake trademark of Razer is one of the most recognized logos in the global gaming and esports communities."
+        },
+        {
+            "id": 4,
+            "title": "GoParkin",
+            "para": "ST Parkin is an auto parking service for the Singapore market. Customer can use the mobile application (both iOS and Android) to find a parking area and pick a spot"
+        },
+        {
+            "id": 5,
+            "title": "CC Core",
+            "para": "Nexlab Technology has developed CC Core to help CII E&amp;C drastically increase project efficiency and accountability by streamlining and mobilizing project communications and documentation."
+        },
+        {
+            "id": 6,
+            "title": "DIVA Beauty ERP",
+            "para": "DIVA Beauty Salon is one of the leading prestigious beauty salons for customers in Vietnam"
+        },
+        {
+            "id": 7,
+            "title": "WebMoney Vietnam",
+            "para": "WebMoney Vietnam is a guarantor member of WebMoney Transfer, using V-Check WMV — Prepaid transfer in Vietnamese dong. User can deposit money to wallet, withdraw cash from the balance, transfer money between 2 wallets and do payment for retailers and merchants."
+        },
+        {
+            "id": 8,
+            "title": "FE HR Portal",
+            "para": "FE CREDIT is the market leader in the consumer finance industry in Vietnam. With more than 20,000 employees, FE Credit needs a good Human Resource Management solution and we were trusted by them to do that."
+        },
+        {
+            "id": 9,
+            "title": "JBee",
+            "para": "Global connection, Trust for business is the guideline for GCO GROUP that had been born and developed firmly."
+        },
+        {
+            "id": 10,
+            "title": "WOW",
+            "para": "WOW is an application that allows users (customers) to connect more easily with professional, dedicated domestic helpers, electricians, and plumbers from WOW."
+        },
+        {
+            "id": 11,
+            "title": "Indigo Education",
+            "para": "Indigo Education Group, one of the biggest private education centers in Singapore, helps students in Asia gain confidence in their abilities and develop their academic and career interests through language mastery. We provide Indigo, a very complicated project, an end-to-end, full product development"
+        },
+        {
+            "id": 12,
+            "title": "GCO Web Builder",
+            "para": "Global connection, Trust for business is the guideline for GCO GROUP that had been born and developed firmly."
+        },
+        {
+            "id": 13,
+            "title": "VETERA",
+            "para": "With Vetera, you can rely on the most comprehensive software for your veterinary practice, veterinary clinic or university. Digitize your practice management now. Ensure more efficiency, future security and profitability."
+        },
+        {
+            "id": 14,
+            "title": "DTaxi",
+            "para": "DTaxi is an on-demand taxi booking platform, with basic features, the same as Uber. Customers can view nearby taxis on maps and request trips in real-time. The driver dispatch system will find suitable drivers and send the request to them"
+        },
+        {
+            "id": 15,
+            "title": "Soundfyr",
+            "para": "From being a radio DJ with a syndicated radio show in more than 100 cities before, rocked with his live DJ sets, been in a rock band, ran a successful corporate event company and more, music has always been a part of his journey in so many ways"
+        },
+        {
+            "id": 16,
+            "title": "WIW",
+            "para": "WhereIsWhere is location-based marketing and advertising platform that connects retailers with potential customers nearby. Through WhereIsWhere, users can easily discover what to eat, shop, and do based on two main factors: Where they are and When they search."
+        },
+        {
+            "id": 17,
+            "title": "CardLine",
+            "para": "CardLine is the right app for business communication and social interaction. It perfectly fits salespeople, entrepreneurs, business developers, and marketing specialists. Users are able to manage their own profile and friend contacts easily, chat with friends, and find new potential business patterns"
+        },
+        {
+            "id": 18,
+            "title": "Magiclab",
+            "para": "MagicLab is a video effect editor which helps everyone play with their own video by editing video, adding music and amazing video effects, then share with friends through social networks. MagicLab is available in App Store"
+        },
+        {
+            "id": 19,
+            "title": "PacificLines",
+            "para": "Pacific Lines is an enterprise system for a shipping company, it covers all the jobs for an over-sea shipping service company. This system provides a useful solution to support all the departments in a company like Pacific Lines"
+        },
+        {
+            "id": 20,
+            "title": "Zodi",
+            "para": "Zodi is a social network for young people in Viet Nam, Zodi bring new user experience for the new way of making friend and discover a new place or group of people"
+        },
+        {
+            "id": 21,
+            "title": "PhotoFlow",
+            "para": "PhotoFlow allows people to create their own video slide-show with music, video is created by photos from Gallery."
+        },
+        {
+            "id": 22,
+            "title": "Upload For Vine",
+            "para": "Upload for Vine helps people edit and upload the video directly to Vine without using Vine App. People can edit the video before uploading, following Vine's rule and crop the frame or trim the duration limit in 6 seconds"
+        },
+        {
+            "id": 23,
+            "title": "Videorize",
+            "para": "Videorize is a product for Vietnamese customers. This is a media application for users to create a video slideshow from multiple photos which are from Instagram and Camera rollsn"
+        },
+        {
+            "id": 24,
+            "title": "GPDQ",
+            "para": "GPDQ is an outsourcing project for the UK customer. GPDQ is a medical and health care service, this is a digital place for patients to find a doctor or book medical services. GPDQ let you book a face to face visit with a qualified GP in seconds using your smartphone."
+        },
+        {
+            "id": 25,
+            "title": "Kardiofit",
+            "para": "This app is using iHealth devices to provide a medical and healthcare service. Supported by real-time clinical expertise, with 24hr medical evacuation in case of emergency"
+        },
+        {
+            "id": 26,
+            "title": "Fitfox",
+            "para": "An application for people who want to exercise, training, and fitness. They can join in any competition for training such as running, and burning calories"
+        },
+        {
+            "id": 27,
+            "title": "Tingle 2",
+            "para": "Tingle is a Dating app with text, voice, and even video calling. Tingle is safer and is the only one that you make a voice or video call for free without giving out your phone number"
+        },
+        {
+            "id": 28,
+            "title": "Utapitop",
+            "para": "An application is a kind of bet game. People will put a question (will call a competition) for the future answer or the answer for the result of an event in the future, they can invite their friends (Facebook friends) to join and bet money for their answers (multiple choice answers)."
+        },
+        {
+            "id": 29,
+            "title": "Herffones",
+            "para": "The application helps students to create class rings. Ability to choose a class ring and then virtually try it on your hand and share with your friends on Instagram, Twitter &amp; Facebook or email it to your parents."
+        },
+        {
+            "id": 30,
+            "title": "Varsity",
+            "para": "Application is a kind of social network for cheerleading in the US"
+        },
+        {
+            "id": 31,
+            "title": "HayHayTV",
+            "para": "This app is a product of DMMT this is the mobile version for the HayhayTV website, HayhayTV is one of the best HD movie web site in Vietnam in 2013."
+        },
+        {
+            "id": 32,
+            "title": "HTV Online",
+            "para": "This app is an application for HTV Television service (http://htvonline.com.vn/gioi-thieu) HTVOnline provides users a large number of contents from HTV for example: Internet TV, Live Channel, TVOD, MovieOD, and Game Show."
+        },
+        {
+            "id": 33,
+            "title": "Dating Go Where",
+            "para": "This app provides a large data collection about places for dating, eating, drinking, or playing. It also suggests some great ideas about the dating experience."
+        },
+        {
+            "id": 34,
+            "title": "NTU Jobpass",
+            "para": "NTU JobPass was designed uniquely for NTU students only. Not only will NTU students be able to view company profiles, but they will also be given the privilege to view the latest job opportunities ranging from full time to part-time openings."
+        },
+        {
+            "id": 35,
+            "title": "Mash",
+            "para": "This is an out-sourcing project for Japanese customers. With Mash users can go online to chat with each other in the Japanese style, in chat, people can show emotion by animating the character and many interesting features which help people interact by chatting"
+        },
+        {
+            "id": 36,
+            "title": "Lucky13",
+            "para": "Lucky 13 is an iOS card online game"
+        },
+        {
+            "id": 37,
+            "title": "Poppy Under The Sea",
+            "para": "Poppy Under the sea is an adventure puzzle game. Poppy is the main character like a water bubble, he takes a tour around color mazes under the sea to collect pearls and find a way to go back home"
+        },
+        {
+            "id": 38,
+            "title": "NexExpress",
+            "para": "NexExpress is an open Cash on delivery (COD), a location-based system for shipping"
+        },
+        {
+            "id": 39,
+            "title": "Khataco ERP",
+            "para": "Khataco.Ltd will support customers to build maintenance procedures and schedules in line with the goal of reducing costs for customers to maintain efficiency and prolong the life of the equipment. We offer a full range of short-term maintenance service contracts, single or package."
+        },
+        {
+            "id": 40,
+            "title": "OSH PHR",
+            "para": "OS-Telehealth is a platform that connects patients with comprehensive medical services, helping patients to access modern healthcare at a reasonable cost, in the fastest time."
+        },
+        {
+            "id": 41,
+            "title": "SmartHub",
+            "para": "SmartHub is an F&amp;B company, one of Nexlab's big customers."
+        },
+        {
+            "id": 42,
+            "title": "Liberalize",
+            "para": "Liberalize is a Singapore-based payment gateway providing payment processing capabilities. "
+        },
+        {
+            "id": 43,
+            "title": "Daikin GOD",
+            "para": "Daikin is the global No.1 air conditioning manufacturer. We help Daikin to digitalize their whole ecosystem (warehouse, sale/ business, service)."
+        },
+        {
+            "id": 44,
+            "title": "Daikin Dealer",
+            "para": "Daikin is the global No.1 air conditioning manufacturer. We help Daikin to digitalize their whole ecosystem (warehouse, sale/ business, service)."
+        },
+        {
+            "id": 45,
+            "title": "Daikin Training",
+            "para": "Daikin is the global No.1 air conditioning manufacturer. We help Daikin to digitalize their whole ecosystem (warehouse, sale/ business, service)."
+        },
+        {
+            "id": 46,
+            "title": "WOW+",
+            "para": "Wow Plus provides hourly housework services, and car cleaning with modern technologies to ensure cleanliness for your family or take care of your mobile phone with quick scheduling in 30s."
+        },
+        {
+            "id": 47,
+            "title": "fixME",
+            "para": "With the help of Nexlab's experienced development team, FixME is one of the first Vietnamese companies pioneering in the field of applying technology platforms to connect the needs of customers for electrical, plumbing, refrigeration, and housework repair needs with FixME's collaborators. "
+        },
+        {
+            "id": 48,
+            "title": "GCO Web Builder",
+            "para": "Global connection, Trust for business is the guideline for GCO GROUP that had been born and developed firmly."
+        },
+        {
+            "id": 49,
+            "title": "CMA Singapore",
+            "para": "CMA is the leader of Abacus Mental Arithmetic in Singapore. Nexlab has successfully developed games and interactive programs based on mental arithmetic learning for CMA. "
+        }
+    ]
+}
