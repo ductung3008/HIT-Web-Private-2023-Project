@@ -174,3 +174,19 @@
 .ct32-l1{
     color: #0d0e10;
 }
+
+/* responsive */
+@media screen and (max-width: 768px) {
+    .ct2l{
+        grid-template-columns: 1fr;
+    }
+    .ct2l>div{
+        align-items: center;
+    }
+    .ct3{
+        flex-direction: column;
+    }
+    .ct3>div{
+        width: 100%;
+    }
+}
