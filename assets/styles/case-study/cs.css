@@ -188,3 +188,21 @@
     margin-right: 10px;
     overflow: hidden;
 }
+/* responsive */
+@media screen and (max-width: 768px) {
+    .ct11{
+        flex-direction: column;
+    }
+    .ct11>div{
+        width: 100%;
+    }
+    .ct2-l{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .ct2-l div{
+        float: none;
+        width: 100%;
+    }
+}
