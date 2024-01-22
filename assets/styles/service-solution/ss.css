@@ -340,3 +340,30 @@
     height: 1px;
     background-color: #dfd8d1;
 }
+
+
+/* resposive */
+@media screen and (max-width: 768px) {
+    .ct31 {
+        flex-direction: column;
+    }
+    .ct2{
+        flex-direction: column;
+        gap: 12px;
+    }
+    .ct2 div{
+        width: 100%;
+    }
+    .ct321{
+        grid-template-columns: 1fr;
+    }
+    .ct321>div{
+        width: 100%;
+    }
+    .ct4{
+        flex-direction: column;
+    }
+    .ct4>div{
+        width: 100%;
+    }
+  }
